@@ -121,7 +121,7 @@ export const asyncRouterMap = [
        
         {
           path: '/charts',
-          name: '图标',
+          name: '图表',
           icon:'pie-graph',
           component: Charts,
         },
